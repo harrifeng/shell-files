@@ -1,0 +1,4 @@
+# file -> /var/lib/boot2docker/profile
+export HTTP_PROXY=http://proxy.sin.sap.corp:8080
+export HTTPS_PROXY=http://proxy.sin.sap.corp:8080
+EXTRA_ARGS="--registry-mirror=http://586b1336.m.daocloud.io"

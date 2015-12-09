@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: souf
-# key: souf
-# --
-System.out.printf("$0%n");

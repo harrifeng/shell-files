@@ -1,4 +1,0 @@
-# contributor: Harri Feng <harrifeng@gmail.com>
-# name: android new strings.xml item
-# --
-<string name="$1">$2</string>

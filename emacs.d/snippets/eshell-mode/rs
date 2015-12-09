@@ -1,4 +1,0 @@
-# contributor: Harri Feng <harrifeng@gmail.com>
-#name : Start Server on 54321 in debug mode
-# --
-rails s -p 54321 --debug

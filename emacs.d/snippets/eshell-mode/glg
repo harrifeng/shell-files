@@ -1,4 +1,0 @@
-# contributor: Harri Feng <harrifeng@gmail.com>
-# name: git log --graph --oneline --all
-# --
-git log --graph --oneline --all
